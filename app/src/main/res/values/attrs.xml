@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AudioPlayerView">
+        <attr name="timeTextSize" format="dimension"/>
+        <attr name="playIcon" format="reference"/>
+        <attr name="innerViewMargin" format="dimension"/>
+    </declare-styleable>
+</resources>
